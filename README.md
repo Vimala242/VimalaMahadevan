@@ -8,7 +8,7 @@
 Explore my work to see how I solve real-world problems through data analysis and visualization.
 
 ### 📚 Projects
-Welcome to my portfolio, where I showcase my [projects!](https://www.google.com/)
+Welcome to my portfolio, where I showcase my [projects!](https://github.com/Vimala242/DataAnalysis_Projects/tree/main)
 
 ### ⚙️ Tools
 * Language: SQL, Python, R
